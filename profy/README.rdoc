@@ -1,0 +1,5 @@
+#top
+https://d19002aac5e341a7bd33e8f9656fe1f9.vfs.cloud9.us-east-2.amazonaws.com/
+
+#phpmyadmin
+https://d19002aac5e341a7bd33e8f9656fe1f9.vfs.cloud9.us-east-2.amazonaws.com:8081/phpmyadmin/#PMAURL-0:index.php?db=&table=&server=1&target=&lang=ja&collation_connection=utf8_general_ci&token=9253db2dd76ffd02c65f4ce00eefa773
